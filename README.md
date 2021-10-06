@@ -6,6 +6,6 @@
 
 Happy Coding ! 🤩
 
-[![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhnguyen1105&count_private=true&show_icons=true&theme=github_dark)](https://github.com/thinhnguyen1105)
+[![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhnguyen1105&count_private=true&show_icons=true&theme=algolia)](https://github.com/thinhnguyen1105)
 
 [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
