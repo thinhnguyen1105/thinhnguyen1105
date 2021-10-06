@@ -1,8 +1,8 @@
 ### Hello, Welcome to my Github 👋
 
-🔭 My name is Thinh and I'm a Software Engineer. I'm from Vietnam 🇻🇳 , living in Hanoi City and currently working at IZTeach. 🌱 I’m currently learning Master of Data Science in Hanoi University of Science and Technology
+🔭  My name is Thinh and I'm a Software Engineer. I'm from Vietnam  🇻🇳 , living in Hanoi City and currently working at IZTeach.  🌱 I’m currently learning Master of Data Science in Hanoi University of Science and Technology
 
-💻 Technology stack i'm working on - NextJS, Python, NodeJS, AWS, MongoDB, Redis ..etc
+💻  Technology stack i'm working on - NextJS, Python, NodeJS, AWS, MongoDB, Redis ..etc
 
 Happy Coding ! 🤩
 
