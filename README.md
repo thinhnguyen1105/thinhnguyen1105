@@ -1,4 +1,5 @@
 ### Hello, Welcome to my Github 👋
+<a href="https://app.daily.dev/nickyiect"><img src="https://api.daily.dev/devcards/4bd0c1ac2e014a048322ed9148b544f9.png?r=iwd" width="400" alt="NickyIceT's Dev Card"/></a>
 
 🔭  My name is Thinh and I'm a Software Engineer. I'm from Vietnam  🇻🇳 , living in Hanoi City and currently working at IZTeach.  🌱 I’m currently learning Master of Data Science in Hanoi University of Science and Technology
 
