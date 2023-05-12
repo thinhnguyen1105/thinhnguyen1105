@@ -6,7 +6,7 @@
 
 Happy Coding ! 🤩
 
-<a href="https://app.daily.dev/nickyiect"><img src="https://api.daily.dev/devcards/4bd0c1ac2e014a048322ed9148b544f9.png?r=iwd" width="150" alt="NickyIceT's Dev Card"/></a></div> [![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhnguyen1105&count_private=true&show_icons=true&theme=github_dark)](https://github.com/thinhnguyen1105)
+<a href="https://app.daily.dev/nickyiect"><img src="https://api.daily.dev/devcards/4bd0c1ac2e014a048322ed9148b544f9.png?r=iwd" width="145" alt="NickyIceT's Dev Card"/></a></div>   [![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhnguyen1105&count_private=true&show_icons=true&theme=github_dark)](https://github.com/thinhnguyen1105)
 
 [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
 
