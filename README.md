@@ -10,7 +10,6 @@ Happy Coding ! 🤩
  <tr>
     <td>
      [![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhnguyen1105&count_private=true&show_icons=true&theme=github_dark)](https://github.com/thinhnguyen1105)
-     
     </td>
     <td><a href="https://app.daily.dev/nickyiect"><img src="https://api.daily.dev/devcards/4bd0c1ac2e014a048322ed9148b544f9.png?r=iwd" width="400" alt="NickyIceT's Dev Card"/></a></td>
  </tr>
