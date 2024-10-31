@@ -1,13 +1,23 @@
-### Hello, Welcome to my Github 👋
+🔭 My name is Thinh and I'm a Software Engineer. I'm from Vietnam 🇻🇳, living in Hanoi City.
 
-🔭  My name is Thinh and I'm a Software Engineer. I'm from Vietnam  🇻🇳 , living in Hanoi City and currently working at IZTeach.  🌱 I’m currently learning Master of Data Science in Hanoi University of Science and Technology
+🎓 I graduated from Hanoi University of Science and Technology (HUST), where I developed a strong foundation in computer science and engineering principles. During my time there, I focused on web performance optimization and modern web technologies.
 
-💻  Technology stack i'm working on - NextJS, Python, NodeJS, AWS, MongoDB, Redis ..etc
+💻 Technology stack I'm working with:
+- Frontend: NextJS, React, JavaScript/TypeScript
+- Backend: Python, NodeJS
+- Cloud Services: AWS
+- Databases: MongoDB, Redis
+- And more...
 
-Happy Coding ! 🤩
+🚀 I'm passionate about:
+- Web Performance Optimization
+- Building scalable applications
+- Creating efficient and maintainable code
+- Learning new technologies
 
-<a href="https://app.daily.dev/nickyiect"><img src="https://api.daily.dev/devcards/4bd0c1ac2e014a048322ed9148b544f9.png?r=iwd" width="145" alt="NickyIceT's Dev Card"/></a></div>   [![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhnguyen1105&count_private=true&show_icons=true&theme=github_dark)](https://github.com/thinhnguyen1105)
+📫 Feel free to reach out to me for collaboration or just a tech chat!
 
-[![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
+Happy Coding! 🤩
 
+[![roadmap.sh](https://roadmap.sh/card/tall/64a7bbeb1dadb37b72b5701d?variant=dark)](https://roadmap.sh)
 
