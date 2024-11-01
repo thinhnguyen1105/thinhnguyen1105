@@ -2,6 +2,8 @@
 
 🎓 I graduated from Hanoi University of Science and Technology (HUST), where I developed a strong foundation in computer science and engineering principles. During my time there, I focused on web performance optimization and modern web technologies.
 
+<a href="https://app.daily.dev/tudacoding"><img src="https://api.daily.dev/devcards/v2/ORo874S9oGy4GLMMUKFp4.png?r=srb&type=wide" width="652" alt="Tủ Đá Coding's Dev Card"/></a>
+
 💻 Technology stack I'm working with:
 - Frontend: NextJS, React, JavaScript/TypeScript
 - Backend: Python, NodeJS
@@ -20,5 +22,5 @@
 Happy Coding! 🤩
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64a7bbeb1dadb37b72b5701d?variant=dark)](https://roadmap.sh)
-<a href="https://app.daily.dev/tudacoding"><img src="https://api.daily.dev/devcards/v2/ORo874S9oGy4GLMMUKFp4.png?r=srb&type=wide" width="652" alt="Tủ Đá Coding's Dev Card"/></a>
+
 
